@@ -25,13 +25,6 @@ This repository contains a series of Jupyter notebooks focusing on enhancing cla
   - Building and fine-tuning KNN classifier on pre-clustered features.
   - Evaluating model performance and visualizing results to assess the impact of clustering on classification accuracy.
 
-### 4. Neural Network Classification over Pre-Clustered Data
-- **Objective:** Exploring the enhancement of classification performance using pre-clustered IPL cricket match data with neural network models.
-- **Key Components:**
-  - Defining and training various configurations of neural network models with different activation functions, weight initializers, and optimizers.
-  - Computing evaluation metrics such as accuracy score, classification report, confusion matrix, and ROC curve to assess model performance.
-  - Visualizing the impact of clustering on classification accuracy through comparison of different model configurations.
-
 ## Conclusion
 The notebooks in this repository emphasize the importance of thorough data preparation, particularly in the context of IPL cricket match data analysis. By meticulously cleaning and organizing the data and leveraging clustering techniques as a preprocessing step, classification models can better capture underlying patterns and relationships, ultimately leading to more accurate predictions of match outcomes.
 
